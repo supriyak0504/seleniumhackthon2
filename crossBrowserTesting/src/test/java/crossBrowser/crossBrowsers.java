@@ -39,7 +39,7 @@ public class crossBrowsers {
 		}
 		else
 		{
-			throw new Exception("Browser is not Correct");
+			throw new Exception("Browser is not opening........");
 			
 		}
 	
